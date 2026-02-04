@@ -1,0 +1,11 @@
+{
+  "name": "drivingschool-api",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
